@@ -1,7 +1,7 @@
 # Hi EveryOne 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="[hi](https://github.com/xkyota/xkyota/blob/main/hi-there.gif)">
+  <img src="https://github.com/xkyota/xkyota/blob/main/coding-typing.gif" alt="Typing" width="300">
 </div>
 
 </br>
@@ -51,7 +51,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-<img  src="[typing](https://github.com/xkyota/xkyota/blob/main/coding-typing.gif)"/>
+ <img src="https://github.com/xkyota/xkyota/blob/main/hi-there.gif" alt="Hi" width="300">
   </p>
 
 *************
