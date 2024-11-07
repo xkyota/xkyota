@@ -1,7 +1,7 @@
 # Hi EveryOne 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://ibb.co/44Yj8B6">
+<img hight="300" width="700" alt="GIF" align="center" src="[hi](https://github.com/xkyota/xkyota/blob/main/hi-there.gif)">
 </div>
 
 </br>
@@ -51,7 +51,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-<img  src="[https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical](https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707)"/>
+<img  src="[typing](https://github.com/xkyota/xkyota/blob/main/coding-typing.gif)"/>
   </p>
 
 *************
