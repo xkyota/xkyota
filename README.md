@@ -1,4 +1,4 @@
-# Hi EvryOne 👋
+# Hi EveryOne 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="[(https://tenor.com/view/hi-there-gif-24028235)](https://tenor.com/view/hi-there-gif-24028235)">
