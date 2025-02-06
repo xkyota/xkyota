@@ -10,7 +10,7 @@
 
 # About Me 💬 :
 
-### - I'm a Front-end Developer with 15 years of experience
+### - I'm a Front-end Developer
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
