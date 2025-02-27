@@ -32,9 +32,6 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hang out and talk or want to game together just ping me 😉.
 
-<a href="mailto:max1mkasss.mail@gmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
 </br>
 </br>
 </br>
