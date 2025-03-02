@@ -1,5 +1,3 @@
-# Hi Everyone 👋
-
 # Hi there , I'm Kyota!
 
 I'm a passionate student developer with a keen interest in web development and programming. I love creating interesting projects and exploring new technologies. My current tech stack includes HTML, CSS (SCSS), Bootstrap, JavaScript, Python, and I'm currently diving into the world of C.
