@@ -38,17 +38,18 @@ To streamline my development process, I use powerful tools that help me stay org
 
 ## 📊 GitHub Stats
 
-Check out some of my GitHub statistics to see my contributions and most-used languages!
+Here are my GitHub stats:
 
-[![Kyota's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkyota&show_icons=true&theme=radical&hide_title=true&count_private=true)](https://github.com/xkyota)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xkyota&layout=compact&theme=radical)](https://github.com/xkyota)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xkyota&show_icons=true&theme=radical&hide_title=true&count_private=true" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkyota&layout=compact&theme=radical" width="350" />
+</p>
 
 ## 🏆 GitHub Trophy
 
 Check out my achievements and milestones on GitHub!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xkyota&theme=onedark)](https://github.com/xkyota/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=xkyota&theme=onedark)](https://github.com/xkyota/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
 
 ## 🌐 Let's Connect!
 I love connecting with like-minded developers! Feel free to reach out to me:
