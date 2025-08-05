@@ -1,65 +1,25 @@
 # Hi there, I'm Kyota! 👋
+## I am a Web Developer
+# 💫 About Me:
+🏢  I'm currently studying<br>🌱  I’m currently working on my pet projects<br>💬  I like to talk about OS<br>📖  Learn more about my projects on my blog
 
-I'm a passionate student developer, constantly exploring the exciting world of web development and programming. My goal is to create meaningful projects and dive deeper into new technologies to enhance my skills. Right now, my tech stack includes HTML, CSS (SCSS), Bootstrap, JavaScript, Python, and I'm diving into the C programming language to learn more about system-level development.
 
-Currently, I am studying at **GoIteens**, an online educational platform for young developers, where I'm honing my skills in web development and programming. Additionally, I'm furthering my education at **Victoria** (based at **RISEBA University**), where I'm gaining in-depth knowledge in technology and programming.
 
-## 🧑‍💻 Languages & Technologies
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xkyota&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### **Frontend Development:**
-I build the structure and style of websites, ensuring they are both beautiful and functional. Here are the technologies I work with:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xkyota&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) 
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) 
-- ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff) 
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=fff) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) 
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### **Backend Development:**
-Building dynamic back-end systems that bring websites and apps to life is my goal. Right now, I’m focused on:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=xkyota&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+---
+[![](https://visitcount.itsvg.in/api?id=xkyota&icon=0&color=13)](https://visitcount.itsvg.in)
 
-### **Programming Languages:**
-I am currently learning and exploring different programming languages for diverse development purposes:
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) 
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=fff) 
-
-### **Tools & Technologies:**
-To streamline my development process, I use powerful tools that help me stay organized and efficient:
-
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff) 
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff) 
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=fff) 
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff) 
-- ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=atom&logoColor=fff) 
-
-## 📊 GitHub Stats
-
-Here are my GitHub stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkyota&layout=compact&theme=radical" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=xkyota&show_icons=true&theme=radical&hide_title=true&count_private=true" width="350" />
-</p>
-
-## 🏆 GitHub Trophy
-
-Check out my achievements and milestones on GitHub!
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xkyota&theme=radical)](https://github.com/xkyota/github-profile-trophy)
-
-## 🌐 Let's Connect!
-I love connecting with like-minded developers! Feel free to reach out to me:
-
-- [GitHub](https://github.com/xkyota)
-- [GoIteens](https://goiteens.com) (My Learning Platform)
-- [Victoria RISEBA](https://www.victoria.riseba.lv) (My University)
-
-Whether you have questions, want to collaborate on a project, or simply want to chat about technology, I’m here! 😊
-
-<p align="center">
-  <img src="https://github.com/xkyota/xkyota/blob/main/coding-typing.gif" alt="Typing" width="300">
-</p>
