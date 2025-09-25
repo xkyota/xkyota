@@ -1,4 +1,4 @@
-# Hi there, I'm Kyota! 👋
+# Hi there, I'm Maksym! 👋
 ## I am a Web Developer
 # 💫 About Me:
 🏢  I'm currently studying<br>🌱  I’m currently working on my pet projects<br>💬  I like to talk about OS<br>📖  Learn more about my projects on my blog
