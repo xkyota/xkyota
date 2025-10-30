@@ -1,5 +1,4 @@
-# Hi there, I'm Maksym! 👋
-## I am a Web Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Maksym+Durikhin;Web-Developer)](https://git.io/typing-svg)
 # 💫 About Me:
 🏢  I'm currently studying<br>🌱  I’m currently working on my pet projects<br>💬  I like to talk about OS<br>📖  Learn more about my projects on my blog
 
